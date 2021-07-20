@@ -6,7 +6,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Unifacema MeuConsumo - Home</title>
+    <title>Home</title>
     <meta name="description" content="MeuConsumo">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -51,7 +51,7 @@ include 'barra-lateral.php';
         <div class="col-lg-12">
           <div class="card" style="margin-bottom: 0px">
             <div class="card-body" style="height: 500px">
-              <h3 style="margin-bottom: 10px"> Unifacema- MeuConsumo</h3>
+              <h3 style="margin-bottom: 10px"> Unifacema- Consumo de Energia</h3>
               <h7>Sistema para auxiliar o monitoramento do consumo de energia </h7>
             </div>
           </div>
