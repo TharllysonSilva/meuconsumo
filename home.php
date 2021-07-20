@@ -51,7 +51,7 @@ include 'barra-lateral.php';
         <div class="col-lg-12">
           <div class="card" style="margin-bottom: 0px">
             <div class="card-body" style="height: 500px">
-              <h3 style="margin-bottom: 10px">Bem Vindo ao MeuConsumo</h3>
+              <h3 style="margin-bottom: 10px"> Unifacema </h3>
               <h7>Sistema para auxiliar o monitoramento do consumo de energia </h7>
             </div>
           </div>
