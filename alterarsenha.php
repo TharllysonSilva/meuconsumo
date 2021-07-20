@@ -6,7 +6,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>MeuConsumo - Alterar senha</title>
+  <title>Unifacema MeuConsumo - Alterar senha</title>
   <meta name="description" content="MeuConsumo">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
