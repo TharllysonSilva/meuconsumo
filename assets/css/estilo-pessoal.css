@@ -1,0 +1,58 @@
+.card{
+	border-radius: 6px;
+	background: #fff;
+	box-shadow: 10px 13px 18px rgba(0, 0, 0, .15);
+}
+
+.barra-superior{
+	box-shadow: 0 3px 6px rgba(0,0,0,.1);
+}
+
+.botao-gerar{
+	border-radius: 30px;
+	width: 120px;
+	margin-left: 5px;
+}
+
+.botao{
+	border-radius: 30px;
+	font-size:14px;
+	font-weight: 500;
+}
+
+.form-control{
+	border-radius: 20px;
+}
+
+.login-form label{
+	color: #343a40;
+}
+
+.fa-bars{
+	color: #e4e4e4	;
+}
+
+@media screen and (max-width: 321px){
+  .botao-gerar{
+		width: 90px;
+	}
+}
+
+@media screen and (min-width:650px ){
+	.card-form-relatorio-dia{
+		width:388px;
+	}
+}
+
+.navbar .navbar-nav li > a {
+	padding: 5px 0;
+
+}
+
+.navbar .menu-title{
+	line-height:0px;
+}
+
+.navbar .navbar-nav li > a{
+	margin-left: 15px;
+}
