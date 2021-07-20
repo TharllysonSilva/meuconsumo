@@ -70,6 +70,15 @@ include 'barra-lateral.php';
                         <button class="btn btn-info btn-sm botao" type="submit" onClick="" >Editar</button>
                       </td>
                     </tr>
+                    <tr>
+                      <td>Aluno</td>
+                      <td>aluno@teste.com</td>
+                      <td>user</td>
+                      <td>
+                        <button class="btn btn-danger btn-sm botao">Excluir</button>
+                        <button class="btn btn-info btn-sm botao" type="submit" onClick="" >Editar</button>
+                      </td>
+                    </tr>
                   </tbody>
                 </table>
               </div>
