@@ -11,7 +11,7 @@
         $data_inicio = $_POST['dataini'];
         $data_final = $_POST['datafim'];
 
-        #Pesquisa todos as chaves de consumo 
+        #Pesquisa todas as chaves de consumo 
         $pesquisa = "sensor01/*";
         $chaves = $redis->keys($pesquisa);
 
