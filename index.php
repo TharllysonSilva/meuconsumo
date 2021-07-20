@@ -49,7 +49,7 @@
         </form>
       </div>
         <div class="text-center" style="color: #cecece">
-          &copy;MeuConsumo 2018
+          &copy;Unifacema CCEE
         </div>
     </div>
   </div>
