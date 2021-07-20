@@ -19,7 +19,7 @@
 
 
 
-    //WidgetChart 1
+    //WidgetChart 1 de todos os meses
     var ctx = document.getElementById( "widgetChart1" );
     ctx.height = 150;
     var myChart = new Chart( ctx, {
@@ -87,7 +87,7 @@
     } );
 
 
-    //WidgetChart 2
+    //WidgetChart 2 de todos os meses
     var ctx = document.getElementById( "widgetChart2" );
     ctx.height = 150;
     var myChart = new Chart( ctx, {
@@ -157,7 +157,7 @@
 
 
 
-    //WidgetChart 3
+    //WidgetChart 3 de todos os meses
     var ctx = document.getElementById( "widgetChart3" );
     ctx.height = 70;
     var myChart = new Chart( ctx, {
@@ -225,7 +225,7 @@
     } );
 
 
-    //WidgetChart 4
+    //WidgetChart 4 de todos os meses
     var ctx = document.getElementById( "widgetChart4" );
     ctx.height = 70;
     var myChart = new Chart( ctx, {
