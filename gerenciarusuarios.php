@@ -67,7 +67,7 @@ include 'barra-lateral.php';
                       <td>user</td>
                       <td>
                         <button class="btn btn-danger btn-sm botao">Excluir</button>
-                        <button class="btn btn-info btn-sm botao"  >Editar</button>
+                        <button class="btn btn-info btn-sm botao" type="submit" onClick="" >Editar</button>
                       </td>
                     </tr>
                   </tbody>
