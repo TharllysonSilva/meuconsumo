@@ -31,7 +31,7 @@
       <div class="login-content">
         <div class="login-logo" style="margin-bottom: 0px">
           <a href="index.html">
-            <img class="align-content img-responsive" src="images/DJI_0434.png" alt="" style="max-width: 180px">
+            <img class="align-content img-responsive" src="images/logo-meuconsumo.png" alt="" style="max-width: 180px">
           </a>
         </div>
         <div class="login-form card">
