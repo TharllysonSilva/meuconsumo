@@ -39,7 +39,7 @@ include 'barra-lateral.php';
     <div class="col-sm-12">
       <div class="page-header float-left" style="padding-left: 0px">
         <div class="page-title">
-          <h1>Cadastrar Usuário</h1>
+          <h1>Editar Usuário</h1>
         </div>
       </div>
     </div>
@@ -54,7 +54,7 @@ include 'barra-lateral.php';
             <div class="card-body">
               <form action="cadastrar.php" name="form" id="form" method="post" class="">
                 <div class="form-group">
-                  <label for="usuario">Nome de usuário</label>
+                  <label for="usuario">Usuário que você quer modificar</label>
                   <input type="text" id="usuario" name="usuario" placeholder="joao" class="form-control">
                 </div>
                 <div class="form-group">
@@ -77,7 +77,7 @@ include 'barra-lateral.php';
                   </div>
                 </div>
                 <div class="form-actions form-group">
-                  <button type="submit" class="btn btn-success btn-sm botao" style="width: 100px">Salvar</button>
+                  <button type="submit" class="btn btn-success btn-sm botao" style="width: 100px" onclick="/D:/Projetos/web/htdocs/meuconsumo/index.php">Salvar</button>
                   <button type="reset" class="btn btn-danger btn-sm botao" style="width: 100px">Cancelar</button>
                  <!-- <button href="home.php" type="submit" class="btn btn-danger btn-sm botao" style="width: 100px">Sair</button>-->
                 </div>
