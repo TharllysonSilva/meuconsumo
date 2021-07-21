@@ -21,7 +21,7 @@
         <li>
           <a href="relatoriomensal.php"> Mensal </a>
         </li>
-        <h3 class="menu-title" style="padding:10px 0px;margin:10px 0px 0px 0px;"><i class="menu-icon fa fa-gear" style="margin-right: 5px"></i> Configurações</h3><!-- /.menu-title -->
+        <h3 class="menu-title" style="padding:10px 0px;margin:10px 0px 0px 0px;"><i class="menu-icon fa fa-gear" style="margin-right: 5px"></i> Configurações </h3><!-- /.menu-title -->
         <li>
           <a href="alterarsenha.php"> Alterar Senha </a>
         </li>
