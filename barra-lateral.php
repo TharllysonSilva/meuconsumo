@@ -12,9 +12,9 @@
     <div id="main-menu" class="main-menu collapse navbar-collapse">
       <ul class="nav navbar-nav">
         <li>
-          <a href="home.php" style="font-weight:700;margin:5px 0px"> <i class="menu-icon fa fa-home" style="width:11px;margin-right:5px;"></i>Home </a>
+          <a href="home.php" style="font-weight:700;margin:5px 0px"> <i class="menu-icon fa fa-home" style="width:11px;margin-right:5px;"></i> Home </a>
         </li>
-        <h3 class="menu-title" style="padding:10px 0px; margin:0px 0px"><i class="menu-icon fa fa-bar-chart-o"></i> Relatório</h3><!-- /.menu-title -->
+        <h3 class="menu-title" style="padding:10px 0px; margin:0px 0px"><i class="menu-icon fa fa-bar-chart-o"></i> Relatório </h3><!-- /.menu-title -->
         <li>
           <a href="relatoriodiario.php"> Diário </a>
         </li>
