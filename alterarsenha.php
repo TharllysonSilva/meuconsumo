@@ -66,8 +66,8 @@ include 'barra-lateral.php';
                   <input type="password" id="confirmarnovasenha" name="confirmarnovasenha" placeholder="Confirmar nova senha" class="form-control">
                 </div>
                 <div class="form-actions form-group">
-                  <button type="submit" class="btn btn-success btn-sm botao" style="width: 100px">Salvar</button>
-                  <button type="reset" class="btn btn-danger btn-sm botao" style="width: 100px">Cancelar</button>
+                  <a type="submit" class="btn btn-success btn-sm botao" style="width: 100px" href="index.php" >Salvar</a>
+                  <a type="reset" class="btn btn-danger btn-sm botao" style="width: 100px" href="home.php" >Cancelar</a>
                  </div>
               </form>
             </div>
