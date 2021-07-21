@@ -21,18 +21,18 @@
         <li>
           <a href="relatoriomensal.php"> Mensal </a>
         </li>
-        <h3 class="menu-title" style="padding:10px 0px;margin:10px 0px 0px 0px;"><i class="menu-icon fa fa-gear" style="margin-right: 5px"></i>Configurações</h3><!-- /.menu-title -->
+        <h3 class="menu-title" style="padding:10px 0px;margin:10px 0px 0px 0px;"><i class="menu-icon fa fa-gear" style="margin-right: 5px"></i> Configurações</h3><!-- /.menu-title -->
         <li>
-          <a href="alterarsenha.php">Alterar Senha </a>
+          <a href="alterarsenha.php"> Alterar Senha </a>
         </li>
         <li>
-           <a href="cadastrarusuario.php">Cadastrar Usuário </a>
+           <a href="cadastrarusuario.php"> Cadastrar Usuário </a>
         </li>
         <li>
-          <a href="gerenciarusuarios.php">Excluir Usuário </a>
+          <a href="gerenciarusuarios.php"> Excluir Usuário </a>
         </li>
         <li>
-          <a href="sair.php" style="font-weight:700;margin:10px 0px 0px 0px;"> <i class="menu-icon fa fa-power-off" style="width: 11px; margin-right: 5px;"></i>Logout </a>
+          <a href="sair.php" style="font-weight:700;margin:10px 0px 0px 0px;"> <i class="menu-icon fa fa-power-off" style="width: 11px; margin-right: 5px;"></i> Logout </a>
         </li>
       </ul>
     </div><!-- /.navbar-collapse -->
