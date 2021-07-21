@@ -45,7 +45,8 @@
                 <a href="esqueceusuasenha.php" style="color:#343a40">Esqueceu a senha?</a>
             </label>
           </div>
-          <button href="home.php" type="submit" class="btn btn-danger btn-flat m-b-30 m-t-30 botao" style="padding:10px;" id="btnLogin">Entrar</button>
+          <!--<a href="home.php" class="btn tbn-danger btn flat m-b-30 m-t-30 botao" style="padding: 10px;" type="submit">Login</a>--
+          <a href="home.php" type="submit" class="btn btn-danger btn-flat m-b-30 m-t-30 botao" style="padding:10px;" id="btnLogin">Entrar</button>
         </form>
       </div>
         <div class="text-center" style="color: #cecece">
