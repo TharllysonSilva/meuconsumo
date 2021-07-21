@@ -33,7 +33,7 @@ function random (min, max) {
     }
 
 
-    //Traffic Chart
+    //Traffic Chart / Trafico de dados representado por dia 
     var ctx = document.getElementById( "trafficChart" );
     //ctx.height = 200;
     var myChart = new Chart( ctx, {
