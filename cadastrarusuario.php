@@ -79,7 +79,7 @@ include 'barra-lateral.php';
                 <div class="form-actions form-group">
                   <button type="submit" class="btn btn-success btn-sm botao" style="width: 100px">Salvar</button>
                   <button type="reset" class="btn btn-danger btn-sm botao" style="width: 100px">Cancelar</button>
-                  <button href="home.php" type="submit" class="btn btn-danger btn-sm botao" style="width: 100px">Sair</button>
+                 <!-- <button href="home.php" type="submit" class="btn btn-danger btn-sm botao" style="width: 100px">Sair</button>-->
                 </div>
               </form>
             </div>
