@@ -32,7 +32,7 @@
           <a href="gerenciarusuarios.php">Excluir Usuário </a>
         </li>
         <li>
-          <a href="sair.php" style="font-weight:700;margin:10px 0px 0px 0px;"> <i class="menu-icon fa fa-power-off" style="width: 11px; margin-right: 5px;"></i>Sair </a>
+          <a href="sair.php" style="font-weight:700;margin:10px 0px 0px 0px;"> <i class="menu-icon fa fa-power-off" style="width: 11px; margin-right: 5px;"></i>Logout </a>
         </li>
       </ul>
     </div><!-- /.navbar-collapse -->
