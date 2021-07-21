@@ -49,7 +49,7 @@
         </form>
       </div>
         <div class="text-center" style="color: #cecece">
-          &copy;Unifacema CCEE
+        Copyright &copy;Unifacema CCEE
         </div>
     </div>
   </div>
