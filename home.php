@@ -30,7 +30,7 @@
 <!--<div class="col-md-2">-->
 <?php
 //Inclui a barra lateral através do arquivo php
-include 'barralateral.php';
+include 'barra-lateral.php';
  ?>
  <!--</div>-->
 <!-- Painel direito -->
