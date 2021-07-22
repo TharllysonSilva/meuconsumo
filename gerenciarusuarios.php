@@ -29,7 +29,7 @@
 
 <?php
 //Inclui a barra lateral através do arquivo php
-include 'barralateral.php';
+include 'barra-lateral.php';
  ?>
 
 <!-- Right Panel -->
