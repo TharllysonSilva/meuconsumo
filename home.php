@@ -53,7 +53,7 @@ include 'barra-lateral.php';
           <div class="card" style="margin-bottom: 0px">
             <div class="card-body" style="height: 500px">
               <h3 style="margin-bottom: 10px"> Unifacema- Painel de Auxilio</h3>
-              <h7> Controle de entrada na IES por catraca </h7>
+              <h7> Controle de entrada na IES por catraca </h7> <!--Sistema para auxiliar o monitoramento do consumo de energia-->
             </div>
           </div>
         </div><!-- /# column -->
