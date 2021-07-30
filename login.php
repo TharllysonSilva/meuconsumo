@@ -1,7 +1,7 @@
 <?php
 
 	session_start();
-
+	//chamando o connect para a porta de acesso do BD
 	$redis = new Redis();
 	$redis->connect('127.0.0.1');
 
